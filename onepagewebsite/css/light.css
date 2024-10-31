@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+    color: black;
+}
+.important {
+    background-color: white;
+    color: #272621;
+}
+.contact-info {
+    background-color: white;
+    color: #272621;
+}
+.contact-section {
+    background-color: white;
+    color: #272621;
+}
+.contact-form input, .contact-form textarea {
+ background-color: white;
+ color: #272621;
+}
+.countdown-container {
+    color: #272621;
+}
+/* .detail-item h3, .contact-info p .detail-item p, .prize-list { 
+    color: #272621;
+} */
+
+.fa-sun {
+    font-size: x-large;
+    color: yellow;
+}
+.switch {
+    font-size: x-large;
+    justify-content: space-evenly;
+    display: hidden;
+    color: white;
+}
+.fa-moon{
+    visibility: hidden;
+}
+.fa-toggle-on {
+    font-size: x-large;
+    color: white;
+}
